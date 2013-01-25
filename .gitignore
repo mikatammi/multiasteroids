@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Java Files
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*~
